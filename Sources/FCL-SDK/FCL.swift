@@ -9,6 +9,7 @@ import Foundation
 import FlowSDK
 import Cadence
 import AuthenticationServices
+import GRPC
 
 public let fcl: FCL = FCL()
 
